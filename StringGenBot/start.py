@@ -25,7 +25,7 @@ Mᴀᴅᴇ ᴡɪᴛʜ ❤ ʙʏ : [𓆩 𝐒˚𝐇˚𝐈˚𝐕˚𝐀˚𝐍˚𝐆 
                     InlineKeyboardButton(text="ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ", callback_data="generate")
                 ],
                 [
-                    InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/ll_SHIVANG_ll"),
+                    InlineKeyboardButton("sᴏᴜʀᴄᴇ", url="https://t.me/R2F_Updates"),
                     InlineKeyboardButton("ᴅᴇᴠᴇʟᴏᴩᴇʀ", url="https://t.me/ll_SHIVANG_ll")
                 ]
             ]
