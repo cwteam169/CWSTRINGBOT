@@ -1,6 +1,6 @@
 <h1 align="center"><b>❤️ BRANDED STRING SESSION BOT ❤️</b></h1>
 <p align="center">
-  <img src="https://te.legra.ph/file/90e709718e7dac641aaf7.jpg" alt="StringGen">
+  <img src="https://te.legra.ph/file/1bb4e902864615ab655ff.jpg" alt="StringGen">
 </p>
 ## ʀᴇᴘᴏ sᴛᴀᴛs
 <a href="https://github.com/WCGKING/STRING-SESSION"><img src="https://github-readme-stats.vercel.app/api/pin/?username=WCGKING&repo=STRING-SESSION&theme=chartreuse-dark"></a>
